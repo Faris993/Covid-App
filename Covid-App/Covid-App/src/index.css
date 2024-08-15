@@ -1,0 +1,9 @@
+body {
+  background: url("/src/Components/Home/Img/toxin_map.jpg") no-repeat center
+    center fixed;
+  background-size: cover; /* Ensure the image covers the entire background */
+  color: #00ff00; /* Bright green text */
+  font-family: "Arial", sans-serif; /* Adjust the font as needed */
+  background-color: #00a2ff;
+}
+background-color: hsla(0, 0%, 20%, 0.733);
